@@ -1,3 +1,2 @@
-# Creacción de Objetos: Construcciones 
+# JavaScript - Creacción de Objetos: Construcciones 
 # -------------------------------------
-  - JavaScript
